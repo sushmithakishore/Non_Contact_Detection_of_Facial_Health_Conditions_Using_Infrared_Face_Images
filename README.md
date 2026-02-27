@@ -1,0 +1,2 @@
+# Non_Contact_Detection_of_Facial_Health_Conditions_Using_Infrared_Face_Images
+Infrared image processing pipeline for facial region extraction and feature analysis
